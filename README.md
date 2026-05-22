@@ -66,16 +66,5 @@ This project is broken into 2 parts:
 
 <br>
 
-## **Resources**
-
-* [Week 18 Lab Solutions (Grover's Algorithm for Searching Databases)](https://drive.google.com/file/d/1BAYHXCpXLp-iP2WyvamVbRchshwxOquM/view?usp=sharing)
-* [Qiskit Textbook: Grover for Sudoku](https://qiskit.org/textbook/ch-algorithms/grover.html#sudoku)
-* [Qiskit Documentation: Grover’s Algorithm and Amplitude Amplification](https://qiskit.org/documentation/tutorials/algorithms/06_grover.html)
-* [Qiskit Documentation: `AmplificationProblem(...)`](https://qiskit.org/documentation/stubs/qiskit.algorithms.AmplificationProblem.html)
-* [Qiskit Documentation: `Grover(...)`](https://qiskit.org/documentation/stubs/qiskit.algorithms.Grover.html)
-* [Qiskit Documentation: `circuit.mct(...)`](https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.mct.html)
-
-**If you're curious to learn more:**
-* [Youtube: The Four Color Theorem - What Counts as a Proof?](https://www.youtube.com/watch?v=42-ws3bkrKM)
 
 ---
